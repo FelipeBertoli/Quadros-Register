@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decor-Register", "Decor-Register\Decor-Register.csproj", "{5B5060B8-A6FF-462B-A78E-A16F8AA43EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B5060B8-A6FF-462B-A78E-A16F8AA43EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5060B8-A6FF-462B-A78E-A16F8AA43EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5060B8-A6FF-462B-A78E-A16F8AA43EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5060B8-A6FF-462B-A78E-A16F8AA43EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4608E82-4DDC-4C1F-9EC9-E57D9FE2309B}
+	EndGlobalSection
+EndGlobal
